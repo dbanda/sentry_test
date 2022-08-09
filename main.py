@@ -9,5 +9,7 @@ sentry_sdk.init(
 )
 
 
+# fix error
+#division_by_zero = 1 / 0
 
-division_by_zero = 1 / 0
+print("done")
