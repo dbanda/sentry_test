@@ -10,6 +10,7 @@ sentry_sdk.init(
 
 
 # introduce error
-division_by_zero = 1 / 0
+#division_by_zero = 1 / 0
+print(hello)
 
 
